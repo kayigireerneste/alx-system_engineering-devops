@@ -1,3 +1,2 @@
 #!/bin/bash
-command to print the current directory
-
+command to print the current directory.
