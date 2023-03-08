@@ -1,3 +1,2 @@
 #!/bin/bash
-alx shell navigation basics/ second projects
-
+alx shell navigation basics/ second projects.
